@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkcyan;
+    margin-left: 20px;
+}
+
+p{
+    margin: 10px;
+    font-size: 16px;
+    color: white;
+}
+
+.container {
+    display: flex;
+    text-align: center;
+}
+  
+
+#logo{
+    font-size: 20px;
+    transition: font-size 0.3s,  transform 0.6s;
+}
+#logo:hover{
+    font-size: 30px;
+    transform: rotate(360deg);
+}
+
+
+.div0{
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    margin: 10px;
+    text-align: center;
+    transition: font-size 0.3s;
+}
+.div0:hover{
+    font-size: 20px;
+}
+
