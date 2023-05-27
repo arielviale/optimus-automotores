@@ -188,8 +188,8 @@ video {
     right: 0; */
 /* background-color: black;
     transform: scale(0);
-    transition: transform 0.4s; */
-}
+    transition: transform 0.4s; 
+}*/
 
 /* .grid-container:hover::before {
     transform: scale(1) rotate(360deg);
