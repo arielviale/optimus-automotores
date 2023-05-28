@@ -237,3 +237,16 @@ video {
 .welcome-section:hover:before {
     opacity: 1;
 }
+
+
+.nav-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:250px;
+}
+.nav-content{
+    background-color:  #555555;
+    padding: 10px;
+    text-align: center;
+}
