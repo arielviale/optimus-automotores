@@ -1,0 +1,39 @@
+body {
+    margin: auto;
+    width: 640 px;
+    padding: 50px;
+    font-family: 'Arial', sans-serif;
+    color: #33475b;
+}
+
+.center {
+height: 300px;
+display: flex;
+align-items: center;
+justify-content: center;
+border: 3px solid #dbe4ed;
+}
+
+footer{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    padding: 10 px;
+    margin-top: auto;
+    border: 3px solid #dbe4ed;
+}
+.titulo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(52, 55, 59);
+    padding: 30px;
+    margin:auto;
+    align-items: center;
+   justify-content: center;
+   font-size: x-large;
+}
+.mapa{
+    height: 450px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+}
