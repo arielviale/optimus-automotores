@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    width: 640 px;
+    padding: 50px;
+    font-family: 'Arial', sans-serif;
+    color: #33475b;
+}
+
+.center {
+height: 300px;
+display: grid;
+align-items: center;
+justify-content: center;
+border: 3px solid #dbe4ed;
+}
+
+
+.titulo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin:auto;
+    align-items: left;
+   justify-content: center;
+   font-size: large;
+   color: red;
+}
+.conteiner{
+display: grid;
+grid-template-columns: 1fr 1fr;
+
+background-size: cover;
+}
+
+.Izquierda{
+    background-color: aquamarine;
+}
+
+.Derecha{
+    background-color: rgba(255, 255, 255, 0.007);
+}
+
+.mapa{
+    height: 400px;
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    margin-bottom: 30px;
+    margin-top: 100px;
+}
+
+footer{
+    grid-template-columns: 1fr auto;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    padding: 10 px;
+    margin-top: auto;
+    border: 3px solid #dbe4ed;
+    background-color: red;
+    border: 3px solid black
+}

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="Css Contacto">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>"Contacto"</title>
+    <div class="center" >
+        <img src="https://inscripcionesagencia.bue.edu.ar/codoacodo/iconos/logos/logo-CAC-2.webp" alt="Imagen de Codo a Codo" width="400" height="300"> 
+        </div>
+        <div class="titulo">
+    <h1> <b> <i> Puede contactar con nosotros  a traves de los siguienter medios:</i>
+    </b>
+    </h1>
+</div>
+</head>
+<body>
+    
+</body>
